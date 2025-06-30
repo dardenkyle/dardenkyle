@@ -3,7 +3,7 @@
 Backend Developer with a background in data science & AI, building scalable APIs and microservices with Python, FastAPI, and PostgreSQL. I'm focused on developer-first, production-ready systems — and always learning something new.
 
 ##  Tech Stack
-Python • FastAPI • PostgreSQL • Docker • SQLAlchemy • Alembic • Redis • AWS • GitHub Actions
+Python • SQL • FastAPI • PostgreSQL • Docker • SQLAlchemy • Alembic • Redis • AWS • GitHub Actions
 
 ##  Projects
 - **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
