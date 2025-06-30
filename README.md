@@ -7,7 +7,7 @@ Python • FastAPI • PostgreSQL • Docker • SQLAlchemy • Alembic • Redi
 
 ##  Projects
 - **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
-- **[FreightFolio](https://github.com/dardenkyle/freightfolio)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
+- **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
 
 ##  Learning Goals
 Currently deepening my expertise in microservice design, database optimization, and preparing for cloud-native deployment with Docker and AWS. Learning more about observability and distributed systems to scale production-ready systems with confidence.
