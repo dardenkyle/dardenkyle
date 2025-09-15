@@ -9,6 +9,7 @@ Backend Developer with a background in data science & AI, building scalable APIs
 ##  Projects
 - **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
 - **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
+- **[Portfolio](https://github.com/dardenkyle/portfolio-site)** – Full-stack portfolio website showcasing projects and skills, built with Spring Boot and React/Vite.
 
 ##  Learning Goals
 Currently deepening my expertise in microservice design, database optimization, and preparing for cloud-native deployment with Docker and AWS. Learning more about observability and distributed systems to scale production-ready systems with confidence.
