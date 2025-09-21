@@ -7,8 +7,9 @@ Backend Developer with a background in data science & AI, building scalable APIs
 * **Frameworks & Libraries:** FastAPI • PostgreSQL • Spring Boot • React • SQLAlchemy • Alembic   
 * **Tools:**  Docker • AWS • Redis • GitHub Actions
 ##  Projects
-- **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
 - **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
+- **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
+- **[Movie Analytics ETL](https://github.com/dardenkyle/movie-analytics-etl)** - End-to-end data engineering project processing 176M+ IMDb records into a dimensional warehouse with dbt and PostgreSQL.
 - **[Portfolio](https://github.com/dardenkyle/portfolio-site)** – Full-stack portfolio website showcasing projects and skills, built with Spring Boot and React/Vite.
 
 ##  Learning Goals
