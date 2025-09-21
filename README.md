@@ -3,7 +3,7 @@
 Backend Developer with a background in data science & AI, building scalable APIs and microservices with Python, FastAPI, and PostgreSQL. I'm focused on developer-first, production-ready systems — and always learning something new.
 
 ##  Tech Stack
-* **Languages:** Python • SQL • Java • JavaScript • TypeScript
+* **Languages:** Python • SQL • Java • JavaScript • TypeScript • HTML • CSS
 * **Frameworks & Libraries:** FastAPI • PostgreSQL • Spring Boot • React • SQLAlchemy • Alembic   
 * **Tools:**  Docker • AWS • Redis • GitHub Actions
 ##  Projects
