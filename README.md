@@ -16,4 +16,4 @@ Backend Developer with a background in data science & AI, building scalable APIs
 Currently deepening my expertise in microservice design, database optimization, and preparing for cloud-native deployment with Docker and AWS. Learning more about observability and distributed systems to scale production-ready systems with confidence.
 
 ##  Let’s Connect
-Feel free to connect with me on my [LinkedIn](https://linkedin.com/in/darden-kyle) or here on GitHub.
+Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/kyle-darden) or here on GitHub.
