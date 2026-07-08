@@ -8,13 +8,6 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 * **Frameworks & Libraries:** FastAPI · React · SQLAlchemy · Alembic
 * **Tools:** Docker · AWS · GitHub Actions
 
-## Featured Projects
-- **[CS2 Analytics](https://github.com/dardenkyle/CS2-analytics)** — End-to-end data platform: Python ingestion → PostgreSQL → FastAPI (Render) → React dashboard (GitHub Pages). CI on backend + frontend. [Live demo](https://dardenkyle.github.io/CS2-analytics/)
-- **[movie_analytics_etl](https://github.com/dardenkyle/movie_analytics_etl)** — Dimensional warehouse over 176M+ IMDb records: dbt star schema, staging/marts, ~30 data-quality tests.
-- **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** — In-development logistics SaaS backend: 5 FastAPI services behind production-grade AWS Cognito auth, Dockerized Postgres. Source private.
-- **[portfolio-site](https://github.com/dardenkyle/portfolio-site)** — Java 21 / Spring Boot API + React/TypeScript frontend.
-- **[site-sentry](https://github.com/dardenkyle/site-sentry)** — Playwright + Pytest QA suite for kyledarden.com, twice-daily via GitHub Actions.
-
 ## Currently 
 Deepening the CS2 platform — orchestration (Airflow), incremental loading — and completing CS coursework toward a graduate program.
 
