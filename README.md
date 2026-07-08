@@ -9,7 +9,7 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 * **Tools:** Docker · AWS · GitHub Actions
 
 ## Featured Projects
-- **[CS2 Analytics](https://github.com/dardenkyle/CS2-analytics) · [live demo →](https://dardenkyle.github.io/CS2-analytics/)** — End-to-end data platform: Python ingestion → PostgreSQL → FastAPI (Render) → React dashboard (GitHub Pages). CI on backend + frontend.
+- **[CS2 Analytics](https://github.com/dardenkyle/CS2-analytics)** — End-to-end data platform: Python ingestion → PostgreSQL → FastAPI (Render) → React dashboard (GitHub Pages). CI on backend + frontend. [Live demo](https://dardenkyle.github.io/CS2-analytics/)
 - **[movie_analytics_etl](https://github.com/dardenkyle/movie_analytics_etl)** — Dimensional warehouse over 176M+ IMDb records: dbt star schema, staging/marts, ~30 data-quality tests.
 - **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** — In-development logistics SaaS backend: 5 FastAPI services behind production-grade AWS Cognito auth, Dockerized Postgres. Source private.
 - **[portfolio-site](https://github.com/dardenkyle/portfolio-site)** — Java 21 / Spring Boot API + React/TypeScript frontend.
