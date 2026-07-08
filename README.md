@@ -8,14 +8,17 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 * **Frameworks & Libraries:** FastAPI · React · SQLAlchemy · Alembic
 * **Tools:** Docker · AWS · GitHub Actions
 
-##  Projects
-- **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
-- **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
-- **[Movie Analytics ETL](https://github.com/dardenkyle/movie_analytics_etl)** - End-to-end data engineering project processing 176M+ IMDb records into a dimensional warehouse with dbt and PostgreSQL.
-- **[Portfolio](https://github.com/dardenkyle/portfolio-site)** – Full-stack portfolio website showcasing projects and skills, built with Spring Boot and React/Vite.
+## Featured Projects
+- **[CS2 Analytics](https://github.com/dardenkyle/CS2-analytics) · [live demo →](https://dardenkyle.github.io/CS2-analytics/)** — End-to-end data platform: Python ingestion → PostgreSQL → FastAPI (Render) → React dashboard (GitHub Pages). CI on backend + frontend.
+- **[movie_analytics_etl](https://github.com/dardenkyle/movie_analytics_etl)** — Dimensional warehouse over 176M+ IMDb records: dbt star schema, staging/marts, ~30 data-quality tests.
+- **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** — In-development logistics SaaS backend: 5 FastAPI services behind production-grade AWS Cognito auth, Dockerized Postgres. Source private.
+- **[portfolio-site](https://github.com/dardenkyle/portfolio-site)** — Java 21 / Spring Boot API + React/TypeScript frontend.
+- **[site-sentry](https://github.com/dardenkyle/site-sentry)** — Playwright + Pytest QA suite for kyledarden.com, twice-daily via GitHub Actions.
 
 ##  Learning Goals
 Currently deepening my expertise in microservice design, database optimization, and preparing for cloud-native deployment with Docker and AWS. Learning more about observability and distributed systems to scale production-ready systems with confidence.
 
-##  Let’s Connect
-Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/kyle-darden) or here on GitHub.
+## Connect
+- Website — https://kyledarden.com
+- LinkedIn — https://www.linkedin.com/in/kyle-darden/
+- Live demo — https://dardenkyle.github.io/CS2-analytics/
