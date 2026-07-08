@@ -1,11 +1,11 @@
-# Kyle Darden | Backend Developer
+# Kyle Darden - Data Engineer | Backend Systems
 
-Backend Developer with a background in data science & AI, building scalable APIs and microservices with Python, FastAPI, and PostgreSQL. I'm focused on developer-first, production-ready systems — and always learning something new.
+I build data platforms end to end - ingestion, storage, and the API that serves them - on a backend-engineering foundation.
 
 ##  Tech Stack
 * **Languages:** Python • SQL • Java • JavaScript • TypeScript • HTML • CSS
 * **Frameworks & Libraries:** FastAPI • PostgreSQL • Spring Boot • React • SQLAlchemy • Alembic   
-* **Tools:**  Docker • AWS • Redis • GitHub Actions
+* **Tools:**  Docker • AWS • GitHub Actions
 ##  Projects
 - **[FreightFolio](https://github.com/dardenkyle/freightfolio-overview)** – Logistics SaaS backend with microservice architecture, auth, invoicing, and load tracking.
 - **[CS2 Analytics](https://github.com/dardenkyle/CS2-Analytics)** – Modular backend for scraping and analyzing pro Counter-Strike 2 data.
