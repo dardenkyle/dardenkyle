@@ -15,8 +15,8 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 - **[portfolio-site](https://github.com/dardenkyle/portfolio-site)** — Java 21 / Spring Boot API + React/TypeScript frontend.
 - **[site-sentry](https://github.com/dardenkyle/site-sentry)** — Playwright + Pytest QA suite for kyledarden.com, twice-daily via GitHub Actions.
 
-##  Learning Goals
-Currently deepening my expertise in microservice design, database optimization, and preparing for cloud-native deployment with Docker and AWS. Learning more about observability and distributed systems to scale production-ready systems with confidence.
+## Currently 
+Deepening the CS2 platform — orchestration (Airflow), incremental loading — and completing CS coursework toward a graduate program.
 
 ## Connect
 - Website — https://kyledarden.com
