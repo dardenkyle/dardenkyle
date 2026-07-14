@@ -9,9 +9,9 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 * **Tools:** Docker · AWS · GitHub Actions
 
 ## Currently 
-Deepening the CS2 platform — orchestration (Airflow), incremental loading — and completing CS coursework toward a graduate program.
+Deepening the CS2 platform - dbt modeling, orchestration (Airflow), and incremental loading - while completing CS coursework toward a graduate program, hardening my projects with test coverage, CI, and documentation, and improving my agentic AI workflows.
 
 ## Connect
 - Website — https://kyledarden.com
 - LinkedIn — https://www.linkedin.com/in/kyle-darden/
-- Live demo — https://dardenkyle.github.io/CS2-analytics/
+- CS2 Analytics live demo — https://dardenkyle.github.io/CS2-analytics/
