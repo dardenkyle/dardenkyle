@@ -10,7 +10,7 @@ I build data platforms end to end - ingestion, storage, and the API that serves 
 * **Testing & CI:** pytest · Playwright · GitHub Actions
 
 ## Currently 
-Deepening the CS2 platform - dbt modeling, orchestration (Airflow), and incremental loading - while completing CS coursework toward a graduate program, hardening my projects with test coverage, CI, and documentation, and improving my agentic AI workflows.
+Building out the dbt transformation layer on CS2-analytics - dimensional modeling, incremental loads, and SCD2 history for roster changes. Alongside that: CS coursework toward a graduate program, and sharpening my agentic AI development workflows.
 
 ## Connect
 - Website — https://kyledarden.com
